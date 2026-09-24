@@ -236,7 +236,4 @@ MIT。`dsh-session-query-sqlite-cjk` 为 `@deepseek-ai/dsh-session-query-sqlite`
 
 > 完整安装验证过程、issue #1（observeSession 缺失）的根因分析与修复说明，
 > 见 [docs/TEST-ENVIRONMENT.md](./docs/TEST-ENVIRONMENT.md)。
-> 验证环境：DSH Desktop 2.0.4 / dsh  .1.5-rc.2 / Node v24.9.0 / Windows 11 x64。
-> 全量单测 **55/55 通过**（corepack pnpm test，8 个包）。
-
-
+> 验证环境：DSH Desktop 2.0.4 / dsh 
